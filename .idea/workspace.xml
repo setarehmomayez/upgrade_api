@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a63b7605-2967-4803-b245-02a77dfb9552" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/request/UpgradeLoginRequestPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/response/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/UpgradeLoginRequestPayload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/Loan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/response/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upgrade_api.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dXuLFfl69tSMhRLhufisEEkbBB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.ApiTest">
+    <configuration name="ApiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="upgrade_api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_loginApi_with_good_credentials_returns200" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="upgrade_api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_loginApi_with_good_credentials_returns200" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_validate_response" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="upgrade_api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_validate_response" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_wrong_credentials_returns_401" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="upgrade_api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_wrong_credentials_returns_401" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTest" />
+        <item itemvalue="TestNG.ApiTest.test_validate_response" />
+        <item itemvalue="TestNG.ApiTest.test_wrong_credentials_returns_401" />
+        <item itemvalue="TestNG.ApiTest.test_loginApi_with_good_credentials_returns200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a63b7605-2967-4803-b245-02a77dfb9552" name="Default Changelist" comment="" />
+      <created>1592583700238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592583700238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="179" key="#Project_Structure" timestamp="1592583784509">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="232" y="179" key="#Project_Structure/-1920.398.1280.693/0.0.2560.1040@0.0.2560.1040" timestamp="1592583784509" />
+    <state x="1650" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592586691748">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1650" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.398.1280.693/0.0.2560.1040@0.0.2560.1040" timestamp="1592586691748" />
+    <state width="1214" height="271" key="GridCell.Tab.0.bottom" timestamp="1592590087193">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1214" height="271" key="GridCell.Tab.0.bottom/-1920.398.1280.693/0.0.2560.1040@0.0.2560.1040" timestamp="1592590087193" />
+    <state width="1214" height="271" key="GridCell.Tab.0.center" timestamp="1592590087193">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1214" height="271" key="GridCell.Tab.0.center/-1920.398.1280.693/0.0.2560.1040@0.0.2560.1040" timestamp="1592590087193" />
+    <state width="1214" height="271" key="GridCell.Tab.0.left" timestamp="1592590087192">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1214" height="271" key="GridCell.Tab.0.left/-1920.398.1280.693/0.0.2560.1040@0.0.2560.1040" timestamp="1592590087192" />
+    <state width="1214" height="271" key="GridCell.Tab.0.right" timestamp="1592590087193">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1214" height="271" key="GridCell.Tab.0.right/-1920.398.1280.693/0.0.2560.1040@0.0.2560.1040" timestamp="1592590087193" />
+  </component>
+</project>
